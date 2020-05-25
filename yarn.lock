@@ -4310,7 +4310,7 @@ widest-line@^3.1.0:
   dependencies:
     string-width "^4.0.0"
 
-windows-locale@^1.1.0:
+windows-locale@^1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/windows-locale/-/windows-locale-1.1.2.tgz#742953cc20b5b0c21d2d2eeb2a8ede437e251cb0"
   integrity sha512-/UYu06jpOUHdyuenDMhf0xEwMWIBrTCu6R3uw7jBkyzQ76Qjvz8Al29NFMasHmM520v/APFIIhGSYOvUbqrqlQ==
